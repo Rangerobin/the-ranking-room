@@ -7,6 +7,9 @@ export const metadata: Metadata = {
   title: "The Ranking Room | Local SEO Agency in St. Augustine, FL",
   description:
     "The Ranking Room helps local businesses in St. Augustine and across the US rank higher on Google Maps and Google Search. Book a free ranking audit today.",
+  verification: {
+    google: "iKbuZLBfzooJnwIaSXaWlfU-opgBEDpSrHI6iJJFtak",
+  },
   openGraph: {
     title: "The Ranking Room | Local SEO Agency in St. Augustine, FL",
     description:
