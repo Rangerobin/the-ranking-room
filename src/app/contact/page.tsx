@@ -59,6 +59,10 @@ export default function ContactPage() {
               <p>🗺️ Serving businesses across Florida and the US</p>
               <p>⏱ 15-minute call — respect for your time guaranteed</p>
               <p>✓ No credit card · No contracts · No pressure</p>
+              <div className="pt-2 space-y-2">
+                <p><a href="tel:9125016896" className="hover:text-gray-800 transition-colors">📞 (912) 501-6896</a></p>
+                <p><a href="mailto:robinsonrange48@gmail.com" className="hover:text-gray-800 transition-colors">✉️ robinsonrange48@gmail.com</a></p>
+              </div>
             </div>
           </div>
         </div>

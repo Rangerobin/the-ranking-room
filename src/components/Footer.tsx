@@ -61,10 +61,20 @@ export default function Footer() {
 
           {/* Contact */}
           <div>
-            <h3 className="text-sm font-semibold text-white mb-4 uppercase tracking-wider">Get Started</h3>
-            <p className="text-sm text-gray-400 mb-4">
-              Ready to rank higher on Google? Book your free audit — no credit card required.
-            </p>
+            <h3 className="text-sm font-semibold text-white mb-4 uppercase tracking-wider">Contact</h3>
+            <ul className="space-y-3 mb-5">
+              <li>
+                <a href="tel:9125016896" className="text-sm text-gray-400 hover:text-white transition-colors">
+                  📞 (912) 501-6896
+                </a>
+              </li>
+              <li>
+                <a href="mailto:robinsonrange48@gmail.com" className="text-sm text-gray-400 hover:text-white transition-colors">
+                  ✉️ robinsonrange48@gmail.com
+                </a>
+              </li>
+              <li className="text-sm text-gray-400">📍 St. Augustine, FL</li>
+            </ul>
             <a
               href={CALENDLY}
               target="_blank"

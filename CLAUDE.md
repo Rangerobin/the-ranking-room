@@ -16,9 +16,9 @@ The Ranking Room is a local SEO agency founded by [Owner Name], based in St. Aug
 
 - **Business name:** The Ranking Room
 - **Location:** St. Augustine, Florida
-- **Phone:** [ADD PHONE]
-- **Email:** [ADD EMAIL]
-- **Address:** [ADD FULL ADDRESS]
+- **Phone:** (912) 501-6896
+- **Email:** robinsonrange48@gmail.com
+- **Address:** St. Augustine, FL (no street address)
 - **Google Business Profile URL:** [ADD GBP URL]
 
 ---
