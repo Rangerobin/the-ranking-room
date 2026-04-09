@@ -152,13 +152,47 @@ The Ranking Room is a local SEO agency founded by [Owner Name], based in St. Aug
 
 ---
 
+## Design System
+
+### Colors
+- **Background:** #ffffff (white) and #f8f9fa (light gray for alternating sections)
+- **Primary Accent:** #00c853 (bright green — CTAs, highlights, icons)
+- **Dark Sections:** #1a1a1a (nav, footer, occasional hero accents)
+- **Body Text:** #1a1a1a
+- **Secondary Text:** #6b7280
+- **Borders:** #e5e7eb
+- **Hover Green:** #00a846
+
+### Typography
+- **Primary Font:** Inter (headings + body)
+- **Secondary Font:** Space Grotesk (accent/tagline use)
+- **Heading sizes:** 52px (hero H1), 36px (section H2), 24px (card H3)
+- **Body:** 16px, line-height 1.6
+
+### Layout
+- Light & premium feel — white/light background throughout (NOT dark like landing page)
+- Max content width: 1200px, centered
+- Section padding: 80px vertical
+- Card border-radius: 12px
+- Card shadow: 0 2px 12px rgba(0,0,0,0.08)
+
+### CTA Style
+- Primary button: bg #00c853, white text, border-radius 8px, padding 14px 28px, font-weight 600
+- Hover: bg #00a846 + translateY(-2px) shadow lift
+- All primary CTAs open Calendly: https://calendly.com/robinsonrange3/free-ranking-audit
+- Primary CTA text: "Book Your Free Ranking Audit →"
+
+### Logo
+- File: [USER TO PROVIDE]
+
+---
+
 ## Tech Stack
 
-- Framework: [TBD — React / Next.js preferred for speed + SEO]
+- Framework: Next.js (App Router, TypeScript, Tailwind CSS)
 - Hosting: Vercel
-- Version control: GitHub
-- Design: Figma → Anima → React components
-- Deployment: Auto-deploy via GitHub → Vercel
+- Version control: GitHub (https://github.com/Rangerobin/the-ranking-room)
+- Deployment: Auto-deploy via GitHub → Vercel on every push to main
 
 ---
 
