@@ -15,6 +15,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${BASE}/services/on-page-seo`, lastModified: now, changeFrequency: "monthly", priority: 0.8 },
     { url: `${BASE}/services/link-building`, lastModified: now, changeFrequency: "monthly", priority: 0.8 },
     { url: `${BASE}/services/technical-seo-audit`, lastModified: now, changeFrequency: "monthly", priority: 0.8 },
+    { url: `${BASE}/services/review-strategy`, lastModified: now, changeFrequency: "monthly", priority: 0.8 },
+    { url: `${BASE}/services`, lastModified: now, changeFrequency: "monthly", priority: 0.8 },
+    { url: `${BASE}/locations`, lastModified: now, changeFrequency: "monthly", priority: 0.8 },
+    { url: `${BASE}/blog`, lastModified: now, changeFrequency: "weekly", priority: 0.7 },
+    { url: `${BASE}/privacy-policy`, lastModified: now, changeFrequency: "yearly", priority: 0.3 },
     // Locations
     { url: `${BASE}/locations/st-augustine`, lastModified: now, changeFrequency: "monthly", priority: 0.9 },
     { url: `${BASE}/locations/jacksonville`, lastModified: now, changeFrequency: "monthly", priority: 0.9 },
