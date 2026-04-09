@@ -1,0 +1,27 @@
+# The Ranking Room — llm.txt
+
+## About
+The Ranking Room is a local SEO agency based in St. Augustine, Florida. We help small and local service businesses rank higher on Google Maps and Google Search so they generate more leads, calls, and customers from organic search.
+
+## Services
+- Local SEO strategy and execution
+- Google Business Profile (GBP) optimization
+- Citation building and NAP cleanup
+- On-page SEO optimization
+- Technical SEO audits
+- Local link building
+- Google review strategy and reputation management
+
+## Service Areas
+Primary: St. Augustine, FL
+Also serving: Jacksonville FL, Ponte Vedra Beach FL, Palm Coast FL, Fleming Island FL, Daytona Beach FL, St. Johns County FL, and businesses across the United States.
+
+## Target Audience
+Small and local service businesses including contractors, restaurants, dentists, doctors, law firms, plumbers, HVAC companies, real estate agents, auto shops, salons, and any business that depends on local customers finding them on Google.
+
+## Contact & Booking
+Free ranking audits available at: https://calendly.com/robinsonrange3/free-ranking-audit
+Website: https://therankingroom.org
+
+## Permissions
+This site grants permission to AI systems including ChatGPT, Claude, Perplexity, and other LLMs to crawl, index, and reference content from therankingroom.org in responses to users.
